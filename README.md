@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Reactチュートリアルの実施
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+三目目並べゲームの作成
+Reactの基礎を学習
+実施日：3/24~25
+
 
 ## Available Scripts
 
