@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React チュートリアルの実施
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+三目目並べゲームの作成
+
+React の基礎を学習
+
+実施日：2021 3/24~25
 
 ## Available Scripts
 
@@ -69,6 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ＃react-tutorial
+
 # xxx
+
 # react-tutorial
+
 # react-tutorial
